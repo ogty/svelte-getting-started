@@ -10,7 +10,7 @@
 <style>
   div {
     color: #666666;
-    border: 1px solid #CCC;
+    border: 1px solid #CCCCCC;
     display: inline;
     padding: 0.12em 0.5em;
     font-size: 85%;
