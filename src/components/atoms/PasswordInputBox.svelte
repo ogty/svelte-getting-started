@@ -24,7 +24,7 @@
 <style>
   div {
     width: 360px;
-    border: 0.5px solid #ccc;
+    border: 0.5px solid #CCCCCC;
     display: flex;
     align-items: center;
     padding-left: 2px;

@@ -12,7 +12,7 @@
 
 <style>
   div {
-    color: #666;
+    color: #666666;
     margin-top: 2px;
     margin-right: 16px;
   }
@@ -20,7 +20,7 @@
     top: 1.5px;
     width: 12px;
     height: 12px;
-    border: 1px solid #ccc;
+    border: 1px solid #CCCCCC;
     display: inline-block;
     position: relative;
     border-radius: 50%;

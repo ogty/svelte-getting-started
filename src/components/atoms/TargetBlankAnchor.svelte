@@ -7,7 +7,7 @@
 
 <style>
   a {
-    color: #0969da;
+    color: #0969DA;
     font-weight: 600;
   }
   a:hover {

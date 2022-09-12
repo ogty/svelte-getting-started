@@ -41,7 +41,7 @@
   .card {
     width: 440px;
     height: fit-content;
-    border: 1px solid #ccc;
+    border: 1px solid #CCCCCC;
     padding: 16px;
     border-radius: 6px;
   }
@@ -51,12 +51,12 @@
     align-items: center;
   }
   p {
-    color: #666;
+    color: #666666;
     font-size: 12px;
     margin-top: 8px;
   }
   .bottom {
-    color: #666;
+    color: #666666;
     display: flex;
     font-size: 12px;
     margin-top: 8px;

@@ -28,7 +28,7 @@
     padding-left: 16px;
   }
   li {
-    color: #333;
+    color: #333333;
     display: flex;
     font-size: 14px;
     list-style: none;

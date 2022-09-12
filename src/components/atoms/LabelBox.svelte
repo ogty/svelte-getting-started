@@ -6,7 +6,7 @@
 
 <style>
   p {
-    color: #333;
+    color: #333333;
     margin: 0;
     padding: 8px;
     font-size: 14px;
