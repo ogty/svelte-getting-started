@@ -27,5 +27,9 @@
     "prettier": "^2.7.1",
     "prettier-plugin-astro": "^0.5.4",
     "typescript": "*"
+  },
+  "dependencies": {
+    "@astrojs/svelte": "^1.0.0",
+    "svelte": "^3.50.1"
   }
 }

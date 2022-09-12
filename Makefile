@@ -5,7 +5,7 @@ component_name      := $(shell echo $(icon) | awk -f ./tools/capitalizer.awk)
 ICONS_URL           := https://raw.githubusercontent.com/twbs/icons/main/icons
 ICONS_PATH          := ./src/components/icons
 TOOLS_PATH          := ./tools
-COMPONENT_EXTENSION := astro
+COMPONENT_EXTENSION := svelte
 ASTRO_PROPS         := $(shell echo '---\nexport interface Props {\n\tsize: number;\n}\n\nconst { size } = Astro.props;\n---\n\n')
 SVELTE_PROPS        := $(shell echo '<script lang="ts">\n\texport let size\: number;\n<\/script>\n\n')
 
