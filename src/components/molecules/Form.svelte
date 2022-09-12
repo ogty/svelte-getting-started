@@ -1,6 +1,7 @@
 <script lang="ts">
   import IsValidBox from '@atoms/IsValidBox.svelte';
   import PasswordInputBox from '@atoms/PasswordInputBox.svelte';
+  import Spacer from '@atoms/Spacer.svelte';
 
   let password = '';
   const onInput = (event: any) => {

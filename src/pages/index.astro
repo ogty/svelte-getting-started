@@ -1,8 +1,12 @@
 ---
-import Layout from '@layouts/Layout.astro';
 import Form from '@molecules/Form.svelte';
+import Layout from '@layouts/Layout.astro';
+import Spacer from '@atoms/Spacer.svelte';
+import PinnedRepositories from '@organisms/PinnedRepositories.svelte';
 ---
 
 <Layout title="Svelte Getting Started">
-  <Form />
+  <Form client:load />
+  <Spacer height="16px" />
+  <PinnedRepositories client:load />
 </Layout>

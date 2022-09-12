@@ -8,7 +8,9 @@
       "@organisms/*": ["src/components/organisms/*"],
       "@icons/*": ["src/components/icons/*"],
       "@images/*": ["src/assets/images/*"],
-      "@layouts/*": ["src/layouts/*"]
+      "@layouts/*": ["src/layouts/*"],
+      "@schemas/*": ["src/schemas/*"],
+      "@utils/*": ["src/utils/*"]
     }
   }
 }

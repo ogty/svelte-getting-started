@@ -24,6 +24,7 @@
 
 <style>
   ul {
+    padding-top: 12px;
     padding-left: 16px;
   }
   li {
