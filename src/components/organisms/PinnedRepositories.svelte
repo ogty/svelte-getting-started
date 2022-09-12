@@ -3,7 +3,7 @@
   import RepositoryCard from '@molecules/RepositoryCard.svelte';
   import type { Visibility } from '@schemas/Visibility';
 
-  interface Repositories {
+  interface Repository {
     userName: string;
     repositoryName: string;
     visibility: Visibility;
@@ -13,7 +13,7 @@
     stars: number;
   }
 
-  const repositories: Repositories[] = [
+  const repositories: Repository[] = [
     {
       userName: 'ogty',
       repositoryName: 'astro-tailwindcss-template',
