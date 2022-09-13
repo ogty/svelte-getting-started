@@ -3,7 +3,7 @@
   export let height = '';
 </script>
 
-<div style="width: {width}; height: {height};" />
+<div style:width style:height />
 
 <style>
   div {
