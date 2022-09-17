@@ -1,9 +1,9 @@
 <h1 align="center">Svelte Getting Started</h1>
 
 ```zsh
-$ npm install
-$ npm run astro add svelte
-$ npm install --save-dev prettier-plugin-svelte prettier
+$ pnpm install
+$ pnpm run astro add svelte
+$ pnpm install --save-dev prettier-plugin-svelte prettier
 ```
 
 **`.prettierrc.js`**

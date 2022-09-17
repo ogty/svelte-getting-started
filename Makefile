@@ -11,10 +11,10 @@ SVELTE_PROPS        := $(shell echo '<script lang="ts">\n\texport let size\: num
 
 
 run:
-	npm run dev
+	pnpm run dev
 
 setup:
-	@npm install \
+	@pnpm install \
 	&& chmod +x $(TOOLS_PATH)/unused
 
 icon:
